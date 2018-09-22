@@ -27,3 +27,11 @@ div {
 .padding{
     padding: 5px;
 }
+.small-image-user{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+.font-size-badge{
+    font-size: 25px
+}
