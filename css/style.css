@@ -40,3 +40,11 @@ div {
     font-size: 25px;
 
 }
+.button-more{
+    background-color: #eee;
+    color: #004045;
+}
+.button-more:hover{
+    color: #eee; 
+    background-color:#0099AA;
+}
