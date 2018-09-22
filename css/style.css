@@ -33,5 +33,10 @@ div {
     border-radius: 50%;
 }
 .font-size-badge{
-    font-size: 25px
+    font-size: 20px
+}
+.question-text{
+    color: #004045;
+    font-size: 25px;
+
 }
