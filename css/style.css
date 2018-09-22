@@ -1,0 +1,29 @@
+
+div {
+    direction: rtl;
+}
+
+.background-color{
+    background-color: #eee;
+}
+
+.color-principal{
+    color: #0099AA;
+}
+.second-color{
+    color: #004045;
+}
+
+.image-user{
+    height: 50%;
+    border-radius: 0.25rem;
+    height: 125px;
+    width: 125px;
+}
+.badge-color{
+    color: #eee;
+    background-color: #0099AA;
+}
+.padding{
+    padding: 5px;
+}
