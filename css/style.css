@@ -55,3 +55,6 @@ div {
 .padding{
     padding:10px;
 }
+.link:hover{
+    color: #0099AA
+}
