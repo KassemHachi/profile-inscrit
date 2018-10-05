@@ -48,6 +48,14 @@ div {
     color: #eee; 
     background-color:#0099AA;
 }
+.button-new{
+    background-color: #eee;
+    color: #004045;
+}
+.button-new:hover{
+    color: #eee; 
+    background-color:#0099AA;
+}
 .button-article-background-color{
     color: #eee; 
     background-color:#0099AA;
